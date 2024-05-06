@@ -67,5 +67,5 @@ endmodule
 ![WhatsApp Image 2024-05-06 at 18 05 09_7b4e178e](https://github.com/23012653/D-FLIPDLOP-NEGEDGE/assets/150777517/0c650eb2-504d-4638-a805-c2370859b3de)
 
 
-**RESULTS**
+### RESULTS
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables
